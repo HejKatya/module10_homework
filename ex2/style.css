@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-top: 20px;
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+    border: 2px solid lightblue;
+}

@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.btn {
+    margin-top: 20px;
+    width: 100px;
+    height: 35px;
+    border-radius: 15px;
+    border: 2px solid lightblue;
+    padding-right: 25px;
+    background-image: url('./imgs/arrow-down-left-circle.svg');
+    background-repeat: no-repeat;
+    background-position: 75px center;
+
+}
+
+.filled {
+    background-image: url('./imgs/arrow-down-left-circle-fill.svg');
+}
